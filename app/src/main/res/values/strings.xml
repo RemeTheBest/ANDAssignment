@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GymAppFace</string>
+    <string name="stat_name">Your Statistics</string>
+    <string name="leader_name">The leaderboards</string>
+    <string name="challenge_name">Current challenges</string>
+    <string name="front_picture_name">this is the front picture</string>
+    <string name="stat_title_name">Statistics</string>
+    <string name="leader_title_name">Leaderboards</string>
+    <string name="challenge_title_name">Challenges</string>
+    <string name="pull_stat_name">Star puller topscore</string>
+    <string name="add_name">Add your pullups</string>
+</resources>

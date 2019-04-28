@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/background_color">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="match_parent"
+        android:layout_height="227dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:contentDescription="@string/front_picture_name"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/gym" />
+
+    <TextView
+        android:id="@+id/stats"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_below="@+id/imageView7"
+        android:layout_marginTop="0dp"
+        android:background="@color/stat_color"
+        android:contentDescription="@string/stat_name"
+        android:text="@string/stat_name"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/challenges"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:layout_below="@+id/stats"
+        android:layout_marginTop="1dp"
+        android:background="@color/challenge_color"
+        android:contentDescription="@string/challenge_name"
+        android:text="@string/challenge_name"
+        android:textSize="24sp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/webSiteButton"
+        android:layout_width="96dp"
+        android:layout_height="79dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="38dp"
+        android:clickable="true"
+        android:visibility="visible"
+        app:backgroundTint="@color/colorPrimaryDark"
+        app:srcCompat="@android:drawable/ic_menu_search"
+        tools:srcCompat="@drawable/cardboard" />
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E62E00</color>
+    <color name="colorPrimaryDark">#CC2900</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="stat_color">#ff704d</color>
+    <color name="leader_color">#ff8566</color>
+    <color name="challenge_color">#ff9980</color>
+    <color name="background_color">#ffd6cc</color>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740117744061",
+    "firebase_url": "https://joingym-8d316.firebaseio.com",
+    "project_id": "joingym-8d316",
+    "storage_bucket": "joingym-8d316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740117744061:android:1e7d2086f09d597e",
+        "android_client_info": {
+          "package_name": "com.example.gymappface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740117744061-kgpqu309lbiegvvmv9ktkuib3jimk4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_ezzJBianMwSXir_4sgkxN8zw0hsMO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740117744061-kgpqu309lbiegvvmv9ktkuib3jimk4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
